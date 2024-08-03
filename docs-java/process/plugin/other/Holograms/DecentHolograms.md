@@ -16,7 +16,7 @@ sidebar_position: 2
 
 `插件百科` https://mineplugin.org/Tab
 
-`MineBBS` https://www.minebbs.com/resources/tab-tab.9057/
+`MineBBS` https://www.minebbs.com/resources/decentholograms.9059/
 
 :::
 
